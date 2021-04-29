@@ -1,6 +1,6 @@
 # Vue Firebase Realtime Database: CRUD example
 
-For more detail, please visit:
+Reference
 > [Vue Firebase Realtime Database: CRUD example](https://bezkoder.com/vue-firebase-realtime-database/)
 
 ## Project setup
